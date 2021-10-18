@@ -1,0 +1,231 @@
+body{background: white;
+	font-family: 'Cardo', serif;
+	background-image: url(image/font-main.webp);
+	background-repeat: repeat ;
+background-size: 800px;
+
+}
+
+h1{
+	font-style: bold;
+	text-transform: uppercase;
+
+}
+
+p{font-size: 20px;}
+
+.presentation{background-image: url(image/image1.jpg);
+border : 10px solid black ;
+margin: 30px;
+padding: 30px;
+color: black;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;
+}
+
+.joueur{background-image: url(image/image2.jpg);
+border : 10px solid black ;
+margin: 30px;
+padding: 30px;
+color: black;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;
+}
+
+.ordre {background-image: url(image/image3.jpg);
+border: 10px solid black;
+margin: 75px;
+padding: 100px;
+background-size: cover;
+background-position: center ;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;
+}
+
+.destruction {background-image: url(image/image4.jpg);
+border: 10px solid black;
+margin: 75px;
+padding: 100px;
+background-position: center ;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;
+}
+
+.mort {background-image: url(image/image6.jpg);
+border: 10px solid black;
+margin: 75px;
+padding: 100px;
+background-position: center ;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.chaos {background-image: url(image/image5.jpg);
+border: 10px solid black;
+margin: 75px;
+padding: 100px;
+background-position: center ;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;
+}
+.inter{background-color: rgba( 255,255,255,.75);
+padding: 50px;}
+
+.adresse{background-image: url(image/imagemap.jpg);
+border: 10px solid black;
+margin: 75px;
+padding: 100px;
+background-position: center ;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.orruk01 {background-image: url(image/image4.jpg);
+border: 10px solid black;
+margin: 75px;
+padding: 100px;
+background-position: center ;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.orruk02{background: white;
+border: 10px solid black;
+margin: 75px;
+padding: 100px;}
+.godrakk{background-image: url(image/godrakk.jpg);
+border: 10px solid black;
+margin: 75px;
+padding: 100px;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.gosprakk{background-image: url(image/gosprakk.jpg);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.kragnos{background-image: url(image/kragnos.png);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center ;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.swampboss{background-image: url(image/swampboss.jpg);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center ;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.bossquitue1{background-image: url(image/boss1.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center ;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+
+.megaboss{background-image: url(image/megaboss.jpg);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center ;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+
+.bosskarrache{background-image: url(image/bosskarrach.jpg);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center ;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.bestiaire{background-image: url(image/bestiaire.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center ;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.map {font-size: 15px;
+  border : 1px solid black;
+  transition: margin-right 4s ease-in-out 1s;
+margin :7px;
+padding: 10px;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;
+
+background-color: rgba( 255,255,255,.25);}
+
+.brux{background-image: url(image/brux.jpg);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center ;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+
+
+nav 
+{
+    margin: 100px auto;
+    width: 50%;
+    height: 100px;
+    background-image: url(image/barre.png);
+    background-position: center ;
+background-repeat: repeat-y;
+
+background-size: auto;
+box-shadow: 10px 10px 20px black;
+}
+ 
+nav .main_pages 
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ 
+nav .main_pages a 
+{
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+ 
+nav a:hover 
+{
+    background-color: rgb(255, 255, 255);opacity: 0.5;
+color: #333333;
+}
+
+
+html { scroll-behavior: smooth; }
+
+
+
