@@ -19,7 +19,7 @@ border : 10px solid black ;
 margin: 30px;
 padding: 30px;
 color: black;
-background-attachment: fixed;
+background-attachment: auto;
 box-shadow: 10px 10px 20px black;
 }
 
@@ -28,7 +28,7 @@ border : 10px solid black ;
 margin: 30px;
 padding: 30px;
 color: black;
-background-attachment: fixed;
+background-attachment: auto;
 box-shadow: 10px 10px 20px black;
 }
 
