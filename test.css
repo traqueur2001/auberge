@@ -19,7 +19,7 @@ border : 10px solid black ;
 margin: 30px;
 padding: 30px;
 color: black;
-background-attachment: auto;
+background-attachment: fixed;
 box-shadow: 10px 10px 20px black;
 }
 
@@ -28,8 +28,9 @@ border : 10px solid black ;
 margin: 30px;
 padding: 30px;
 color: black;
-background-attachment: auto;
+background-attachment: fixed;
 box-shadow: 10px 10px 20px black;
+background-position: center ;
 }
 
 .ordre {background-image: url(image/image3.jpg);
