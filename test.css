@@ -253,7 +253,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.bigboss{background-image: url(image/ bigboss.jpg);
+.bigboss{background-image: url(image/bigboss.jpg);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
