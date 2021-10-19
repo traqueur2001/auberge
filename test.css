@@ -230,6 +230,6 @@ color: #333333;
 
 
 html { scroll-behavior: smooth; }
-
-
+.felche {border : 10px solid black;
+	background-image: url(image/image1.jpg)}
 
