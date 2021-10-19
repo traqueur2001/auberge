@@ -373,3 +373,22 @@ background-position: center;
 background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
+
+
+.brute{background-image: url(image/brute.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.gore{background-image: url(image/gore.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
