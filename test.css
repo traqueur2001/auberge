@@ -99,11 +99,14 @@ box-shadow: 10px 10px 20px black;}
 border: 10px solid black;
 margin: 75px;
 padding: 100px;}
+
 .godrakk{background-image: url(image/godrakk.jpg);
 border: 10px solid black;
 margin: 75px;
 padding: 100px;
 background-attachment: fixed;
+background-position: center ;
+background-size: cover;
 box-shadow: 10px 10px 20px black;}
 
 .gosprakk{background-image: url(image/gosprakk.jpg);
