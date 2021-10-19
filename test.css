@@ -355,8 +355,17 @@ background-position: center;
 background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
->
-.so{background-image: url(image/so.webp);
+
+.bowboy{background-image: url(image/archer.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.mordboys{background-image: url(image/mordboys.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
