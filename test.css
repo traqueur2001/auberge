@@ -503,3 +503,30 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
+.vor{background-image: url(image/stormcast/vor.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.gardus{background-image: url(image/stormcast/gardus.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+
+.aven{background-image: url(image/stormcast/aven.jpg);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
