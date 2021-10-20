@@ -14,7 +14,7 @@ h1{
 
 p{font-size: 20px;}
 
-.presentation {background-image: url(index/image1.jpg);
+.presentation {background-image: url(image/index/image1.jpg);
 border : 10px solid black ;
 margin: 30px;
 padding: 30px;
@@ -25,7 +25,7 @@ box-shadow: 10px 10px 20px black;
 	background-position: center ;
 }
 
-.joueur {background-image: url(index/image2.jpg);
+.joueur {background-image: url(image/index/image2.jpg);
 border : 10px solid black ;
 margin: 30px;
 padding: 30px;
@@ -36,7 +36,7 @@ background-position: center ;
 	background-size: cover;
 }
 
-.ordre {background-image: url(liste/image3.jpg);
+.ordre {background-image: url(image/liste/image3.jpg);
 border: 10px solid black;
 margin: 75px;
 padding: 100px;
@@ -46,7 +46,7 @@ background-attachment: fixed;
 box-shadow: 10px 10px 20px black;
 }
 
-.destruction {background-image: url(liste/image4.jpg);
+.destruction {background-image: url(image/liste/image4.jpg);
 border: 10px solid black;
 margin: 75px;
 padding: 100px;
@@ -56,7 +56,7 @@ background-attachment: fixed;
 box-shadow: 10px 10px 20px black;
 }
 
-.mort {background-image: url(liste/image6.jpg);
+.mort {background-image: url(image/liste/image6.jpg);
 border: 10px solid black;
 margin: 75px;
 padding: 100px;
@@ -65,7 +65,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.chaos {background-image: url(liste/image5.jpg);
+.chaos {background-image: url(image/liste/image5.jpg);
 border: 10px solid black;
 margin: 75px;
 padding: 100px;
@@ -77,7 +77,7 @@ box-shadow: 10px 10px 20px black;
 .inter{background-color: rgba( 255,255,255,.75);
 padding: 50px;}
 
-.adresse{background-image: url(contact/imagemap.jpg);
+.adresse{background-image: url(image/contact/imagemap.jpg);
 border: 10px solid black;
 margin: 75px;
 padding: 100px;
@@ -86,7 +86,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.orruk01 {background-image: url(orruk/image4.jpg);
+.orruk01 {background-image: url(image/orruk/image4.jpg);
 border: 10px solid black;
 margin: 75px;
 padding: 100px;
@@ -101,7 +101,7 @@ margin: 75px;
 padding: 100px;
 box-shadow: 10px 10px 20px black;}}
 
-.godrak{background-image: url(orruk/godrakk.jpg);
+.godrak{background-image: url(image/orruk/godrakk.jpg);
 border: 10px solid black;
 margin: 75px;
 padding: 100px;
@@ -110,23 +110,14 @@ background-position: center ;
 background-size: cover;
 box-shadow: 10px 10px 20px black;}
 
-.gosprakk{background-image: url(orruk/gosprakk.jpg);
+.gosprakk{background-image: url(image/orruk/gosprakk.jpg);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.kragnos{background-image: url(orruk/kragnos.png);
-border : 10px solid black;
-margin :75px;
-padding: 100px;
-background-position: center ;
-background-size: cover;
-background-attachment: fixed;
-box-shadow: 10px 10px 20px black;}
-
-.swampboss{background-image: url(orruk/swampboss.jpg);
+.kragnos{background-image: url(image/orruk/kragnos.png);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -135,7 +126,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.bossquitue1{background-image: url(orruk/boss1.webp);
+.swampboss{background-image: url(image/orruk/swampboss.jpg);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -144,8 +135,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-
-.megaboss{background-image: url(orruk/megaboss.jpg);
+.bossquitue1{background-image: url(image/orruk/boss1.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -155,7 +145,7 @@ background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
 
-.bosskarrache{background-image: url(orruk/bosskarrach.jpg);
+.megaboss{background-image: url(image/orruk/megaboss.jpg);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -164,7 +154,17 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.bestiaire{background-image: url(orruk/bestiaire.webp);
+
+.bosskarrache{background-image: url(image/orruk/bosskarrach.jpg);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center ;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.bestiaire{background-image: url(image/orruk/bestiaire.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -183,7 +183,7 @@ box-shadow: 10px 10px 20px black;
 
 background-color: rgba( 255,255,255,.25);}
 
-.brux{background-image: url(orruk/brux.jpg);
+.brux{background-image: url(image/orruk/brux.jpg);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -245,7 +245,7 @@ color: black;
 box-shadow :10px 10px 20px black ;}
 
 
-.wurr{background-image: url(orruk/wurr.webp);
+.wurr{background-image: url(image/orruk/wurr.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -254,7 +254,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.bigboss{background-image: url(orruk/bigboss.jpg);
+.bigboss{background-image: url(image/orruk/bigboss.jpg);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -263,7 +263,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.warchanter{background-image: url(orruk/warchanter.webp);
+.warchanter{background-image: url(image/orruk/warchanter.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -272,7 +272,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.vaso{background-image: url(orruk/vaso.jpg);
+.vaso{background-image: url(image/orruk/vaso.jpg);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -281,7 +281,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.mega{background-image: url(orruk/mega.webp);
+.mega{background-image: url(image/orruk/mega.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -290,7 +290,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.weirdnob{background-image: url(orruk/weird.webp);
+.weirdnob{background-image: url(image/orruk/weird.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -299,17 +299,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.bosski{background-image: url(orruk/bosskitu.jpg);
-border : 10px solid black;
-margin :75px;
-padding: 100px;
-background-position: center;
-background-size: cover;
-background-attachment: fixed;
-box-shadow: 10px 10px 20px black;}
-
-
-.wardokk{background-image: url(orruk/wardokk.webp);
+.bosski{background-image: url(image/orruk/bosskitu.jpg);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -319,7 +309,7 @@ background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
 
-.maniacweir{background-image: url(orruk/maniacweird.webp);
+.wardokk{background-image: url(image/orruk/wardokk.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -329,7 +319,7 @@ background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
 
-.ard{background-image: url(orruk/ard.webp);
+.maniacweir{background-image: url(image/orruk/maniacweird.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -339,34 +329,7 @@ background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
 
-.eventreur{background-image: url(orruk/eventreur.webp);
-border : 10px solid black;
-margin :75px;
-padding: 100px;
-background-position: center;
-background-size: cover;
-background-attachment: fixed;
-box-shadow: 10px 10px 20px black;}
-
-.so{background-image: url(orruk/so.webp);
-border : 10px solid black;
-margin :75px;
-padding: 100px;
-background-position: center;
-background-size: cover;
-background-attachment: fixed;
-box-shadow: 10px 10px 20px black;}
-
-.bowboy{background-image: url(orruk/archer.webp);
-border : 10px solid black;
-margin :75px;
-padding: 100px;
-background-position: center;
-background-size: cover;
-background-attachment: fixed;
-box-shadow: 10px 10px 20px black;}
-
-.mordboys{background-image: url(orruk/mordboys.webp);
+.ard{background-image: url(image/orruk/ard.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -376,7 +339,7 @@ background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
 
-.brute{background-image: url(orruk/brute.webp);
+.eventreur{background-image: url(image/orruk/eventreur.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -385,7 +348,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.gore{background-image: url(orruk/gore.webp);
+.so{background-image: url(image/orruk/so.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -394,7 +357,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.board{background-image: url(orruk/board.webp);
+.bowboy{background-image: url(image/orruk/archer.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -403,43 +366,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.boardm{background-image: url(orruk/boardm.webp);
-border : 10px solid black;
-margin :75px;
-padding: 100px;
-background-position: center;
-background-size: cover;
-background-attachment: fixed;
-box-shadow: 10px 10px 20px black;}
-
-.empaleuse{background-image: url(orruk/empaleuse.webp);
-border : 10px solid black;
-margin :75px;
-padding: 100px;
-background-position: center;
-background-size: cover;
-background-attachment: fixed;
-box-shadow: 10px 10px 20px black;}
-
-.embrocheur{background-image: url(orruk/embrocheur.jpg);
-border : 10px solid black;
-margin :75px;
-padding: 100px;
-background-position: center;
-background-size: cover;
-background-attachment: fixed;
-box-shadow: 10px 10px 20px black;}
-
-.slo{background-image: url(orruk/slo.webp);
-border : 10px solid black;
-margin :75px;
-padding: 100px;
-background-position: center;
-background-size: cover;
-background-attachment: fixed;
-box-shadow: 10px 10px 20px black;}
-
-.hob{background-image: url(orruk/hob.jpg);
+.mordboys{background-image: url(image/orruk/mordboys.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -449,7 +376,80 @@ background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
 
-.storm01 {background-image: url(stormcast/storm01.jpg);
+.brute{background-image: url(image/orruk/brute.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.gore{background-image: url(image/orruk/gore.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.board{background-image: url(image/orruk/board.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.boardm{background-image: url(image/orruk/boardm.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.empaleuse{background-image: url(image/orruk/empaleuse.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.embrocheur{background-image: url(image/orruk/embrocheur.jpg);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.slo{background-image: url(image/orruk/slo.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.hob{background-image: url(image/orruk/hob.jpg);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+
+.storm01 {background-image: url(image/stormcast/storm01.jpg);
 border: 10px solid black;
 margin: 75px;
 padding: 100px;
@@ -465,7 +465,7 @@ padding: 100px;
 box-shadow: 10px 10px 20px black;}
 }
 
-.prim{background-image: url(stormcast/prim.webp);
+.prim{background-image: url(image/stormcast/prim.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -474,7 +474,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.neave{background-image: url(stormcast/neave.webp);
+.neave{background-image: url(image/stormcast/neave.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -483,7 +483,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.stradrake{background-image: url(stormcast/stardrake.webp);
+.stradrake{background-image: url(image/stormcast/stardrake.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
