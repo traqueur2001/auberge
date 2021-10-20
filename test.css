@@ -86,7 +86,7 @@ background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
-.orruk01 {background-image: url(image/orruk/image4.jpg);
+.orruk01 {background-image: url(image/liste/image4.jpg);
 border: 10px solid black;
 margin: 75px;
 padding: 100px;
@@ -110,11 +110,13 @@ background-position: center ;
 background-size: cover;
 box-shadow: 10px 10px 20px black;}
 
-.gosprakk{background-image: url(image/orruk/gosprakk.jpg);
+.gosprak{background-image: url(image/orruk/gosprakk.jpg);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
 background-attachment: fixed;
+background-position: center ;
+background-size: cover;
 box-shadow: 10px 10px 20px black;}
 
 .kragnos{background-image: url(image/orruk/kragnos.png);
@@ -463,7 +465,7 @@ border: 10px solid black;
 margin: 75px;
 padding: 100px;
 box-shadow: 10px 10px 20px black;}
-}
+
 
 .prime {background-image: url(image/stormcast/prim.webp);
 border : 10px solid black;
