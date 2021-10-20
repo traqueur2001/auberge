@@ -530,3 +530,13 @@ background-position: center;
 background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
+
+
+.ast{background-image: url(image/stormcast/ast.jpg);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
