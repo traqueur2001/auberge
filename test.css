@@ -465,7 +465,7 @@ padding: 100px;
 box-shadow: 10px 10px 20px black;}
 }
 
-.prim{background-image: url(image/prime.webp);
+.prim{background-image: url(image/prim.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
@@ -475,6 +475,15 @@ background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
 .neave{background-image: url(image/neave.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.stradrake{background-image: url(image/stardrake.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
