@@ -448,7 +448,7 @@ background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
 
-.strom01 {background-image: url(image/storm01.jpg);
+.storm01 {background-image: url(image/storm01.jpg);
 border: 10px solid black;
 margin: 75px;
 padding: 100px;
@@ -464,6 +464,15 @@ padding: 100px;
 }
 
 .prime{background-image: url(image/prime.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.neave{background-image: url(image/neave.webp);
 border : 10px solid black;
 margin :75px;
 padding: 100px;
