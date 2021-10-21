@@ -542,7 +542,7 @@ background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
 
 
-.orruk01 {background-image: url(image/image6.jpg);
+.ruine01 {background-image: url(image/liste/image6.jpg);
 border: 10px solid black;
 margin: 75px;
 padding: 100px;
@@ -550,3 +550,21 @@ background-position: center ;
 background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
+
+
+.ruine02 {background:  white;
+border: 10px solid black;
+margin: 75px;
+padding: 100px;}
+
+
+
+.nagash{background-image: url(image/ruineame/nagash.jpg);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
