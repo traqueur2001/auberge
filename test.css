@@ -594,3 +594,88 @@ background-position: center;
 background-size: cover;
 background-attachment: fixed;
 box-shadow: 10px 10px 20px black;}
+
+.questor{background-image: url(image/stormcast/questor.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+.venator{background-image: url(image/stormcast/venator.webp);
+border : 10px solid black;
+margin :75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;}
+
+
+.khorne01{background-image: url(image/blade/khorne01.jpg);
+border: 10px solid black;
+margin: 75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;
+}
+
+.khorne02 {background:  white;
+border: 10px solid black;
+margin: 75px;
+padding: 100px;}
+
+
+.skarbrand{background-image: url(image/blade/skar.webp);
+border: 10px solid black;
+margin: 75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;
+}
+
+.skull{background-image: url(image/blade/skull.webp);
+border: 10px solid black;
+margin: 75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;
+}
+
+.karak{background-image: url(image/blade/karak.webp);
+border: 10px solid black;
+margin: 75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;
+}
+
+.valkia{background-image: url(image/blade/valak.webp);
+border: 10px solid black;
+margin: 75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;
+}
+
+.skarr{background-image: url(image/blade/skarr.webp);
+border: 10px solid black;
+margin: 75px;
+padding: 100px;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+box-shadow: 10px 10px 20px black;
+}
